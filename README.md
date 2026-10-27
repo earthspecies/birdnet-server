@@ -59,7 +59,10 @@ uv pip install --python .venv/bin/python httpx resampy  # resampy: birdnetlib's 
 
 ## License
 
-The BirdNET model and labels belong to the BirdNET team (see
-[BirdNET-Analyzer](https://github.com/kahst/BirdNET-Analyzer)) and are licensed under
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/); they are
-installed from `birdnetlib`, not distributed in this repository.
+The code in this repository is MIT-licensed (see `LICENSE`). The MIT license
+covers only this wrapper code. The BirdNET 2.4 model and labels belong to the
+BirdNET team (see [BirdNET-Analyzer](https://github.com/kahst/BirdNET-Analyzer))
+and are licensed under
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+(non-commercial use only); they are installed from `birdnetlib`, not
+distributed in this repository.
